@@ -1,0 +1,4 @@
+PATH_MODEL:ddos_detect_model.sav
+TIME_SCAN:2
+HOST:localhost
+PORT:80
